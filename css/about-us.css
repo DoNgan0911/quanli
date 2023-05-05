@@ -1,0 +1,34 @@
+.content{
+    margin: 0 130px;
+}
+.name_text{
+    text-align: center;
+    margin-top: 132px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3rem;
+    color: #2C2929;
+}
+.content .desc{
+    font-family: 'Arial';
+    margin-top: 34px;
+    font-weight: 300;
+    font-size: 2.6rem;
+    line-height: 1.5;
+    color: #000000;
+}
+.content .info{
+    margin-top: 49px;
+    margin-left: 90px;
+    display: flex;
+}
+.content .info .desc{
+    max-width: 345px;
+    margin-left: 76px;
+    color: #6C6C6C;
+}
+.footer{
+    margin-top: 55px;
+}
